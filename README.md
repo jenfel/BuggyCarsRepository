@@ -1,6 +1,6 @@
-# Buggy Cars Rating End to end tests
+# Buggy Cars Rating End-to-End tests
 
-These tests are end to end tests for [Buggy Cars Rating](https://buggy.justtestit.org/) using [Cypress](https://www.cypress.io/) and JavaScript as programming language.
+These tests are end-to-end tests for [Buggy Cars Rating](https://buggy.justtestit.org/) using [Cypress](https://www.cypress.io/) and JavaScript as programming language.
 
 # Installation
 1. Install [node](https://nodejs.org/en/download/) based on your OS
